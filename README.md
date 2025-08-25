@@ -1,6 +1,13 @@
-# Introducción
+## 📋 Introducción
 
-La Recomendación de la UNESCO sobre Ciencia Abierta (2021) enfatiza la importancia de hacer que el software de investigación sea FAIR (Findable, Accessible, Interoperable, Reusable) y transparente. Sin embargo, muchos investigadores en América Latina enfrentan barreras técnicas y metodológicas para implementar estas prácticas. Esta propuesta presenta una solución práctica y automatizada desarrollada en R que genera plantillas Quarto para crear Planes de Gestión de Software de Investigación, democratizando el acceso a herramientas de ciencia abierta.
+La Recomendación de la UNESCO sobre Ciencia Abierta (2021) enfatiza la importancia de hacer que el software de investigación sea FAIR: Findable, Accessible, Interoperable, Reusable. Sin embargo, muchos investigadores en América Latina enfrentan barreras técnicas y metodológicas para implementar estas prácticas. Esta propuesta presenta una solución práctica y automatizada desarrollada en R que genera plantillas Quarto para crear Planes de Gestión de Software de Investigación, democratizando el acceso a herramientas de ciencia abierta.
 
+## 🎯 Audiencia Objetivo
+* Investigadores que desarrollan software científico
+* Estudiantes de posgrado iniciando en ciencia abierta
+* Administradores de infraestructura de investigación
+* Equipos de desarrollo en instituciones académicas
+* Ingenieros/as de software de investigación, a cargo de la documentación del software desarrollado. 
 
-## Licencia: MIT license
+## 📄 Licencia
+Este proyecto está licenciado bajo la Licencia MIT.
