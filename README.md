@@ -11,3 +11,5 @@ La Recomendación de la UNESCO sobre Ciencia Abierta (2021) enfatiza la importan
 
 ## 📄 Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
+
+### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Agosto 2025
