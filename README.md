@@ -13,6 +13,6 @@ Este proyecto desarrollado con R automatiza la creación de una plantilla Quarto
 * Ingenieros/as de software de investigación, a cargo de la documentación del software desarrollado. 
 
 ## 📄 Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
+Este proyecto está licenciado bajo la Licencia GNU General Public.
 
 ### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Agosto 2025
