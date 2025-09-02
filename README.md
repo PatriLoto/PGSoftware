@@ -1,3 +1,5 @@
+# `PGSoftware`
+
 ## 📋 Introducción
 
 La Recomendación de la UNESCO sobre Ciencia Abierta (2021) enfatiza la importancia de hacer que el software de investigación sea FAIR: Findable, Accessible, Interoperable, Reusable. Sin embargo, muchos investigadores en América Latina enfrentan barreras técnicas y metodológicas para implementar estas prácticas. Esta propuesta presenta una solución práctica y automatizada desarrollada en R que genera una plantilla Quarto para crear Planes de Gestión de Software de Investigación, democratizando el acceso a herramientas de ciencia abierta. 
@@ -15,4 +17,4 @@ Este proyecto desarrollado con R automatiza la creación de una plantilla Quarto
 ## 📄 Licencia
 Este proyecto está licenciado bajo la Licencia GNU General Public.
 
-### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Agosto 2025
+### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Septiembre 2025
