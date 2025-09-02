@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Loto"
+  given-names: "Patricia Andrea"
+  orcid: "https://orcid.org/0000-0003-1849-6916"
+title: "PGSoftware: Automatización de una plantilla Quarto para documentar y gestionar software de investigación científica"
+date-released: 2025-08-27
+url: "https://github.com/PatriLoto/PGSoftware"
