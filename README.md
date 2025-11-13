@@ -17,4 +17,4 @@ Este proyecto desarrollado con R automatiza la creación de una plantilla Quarto
 ## 📄 Licencia
 Este proyecto está licenciado bajo la Licencia GNU General Public.
 
-### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Septiembre 2025
+### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Noviembre 2025
