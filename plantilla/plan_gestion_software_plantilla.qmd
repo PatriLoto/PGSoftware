@@ -1,7 +1,7 @@
 ---
 title: "Plan de Gestión de Software de Investigación"
 author: "[Nombre del Investigador]"
-date: "2025-08-28"
+date: "`r Sys.Date()`" 
 format: 
   html:
     toc: true
@@ -27,7 +27,7 @@ library(DT)
 
 # Introducción
 
-Este documento presenta el Plan de Gestión de Software para el proyecto de investigación [**NOMBRE DEL PROYECTO**]. El objetivo es establecer las mejores prácticas para el desarrollo, documentación, preservación y difusión del software desarrollado durante la investigación.
+Este documento presenta el Plan de Gestión de Software para el proyecto de investigación \[**NOMBRE DEL PROYECTO**\]. El objetivo es establecer las mejores prácticas para el desarrollo, documentación, preservación y difusión del software desarrollado durante la investigación.
 
 ------------------------------------------------------------------------
 

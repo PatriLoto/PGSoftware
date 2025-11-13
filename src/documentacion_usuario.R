@@ -12,7 +12,7 @@
 # )
 
 # 3. Crear un proyecto completo con estructura de carpetas
-# crear_proyecto_completo("analisis_genomicos")
+# crear_proyecto_completo("asistente_virtual")
 
 # Ejecutar la creación de la plantilla básica
 cat("=== Generador de Plantilla Quarto para Plan de Gestión de Software ===\n\n")

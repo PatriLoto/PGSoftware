@@ -17,7 +17,7 @@ mi proyecto/
 ## Cómo usar este proyecto
 
 # OPCIÓN DE USO 1:
-1. Genera la plantilla del plan de gestión con la función -----
+1. Descarga la plantilla del plan de gestión 
 2. Completa el plan de gestión de software en `plan_gestion_software.qmd`
 3. Renderiza el documento con: `quarto render plan_gestion_software.qmd`
 
