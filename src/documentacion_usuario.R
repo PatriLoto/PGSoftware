@@ -7,8 +7,8 @@
 # crear_plantilla_plan_gestion(
 #   nombre_archivo = "mi_plan_gestion_software.qmd",
 #   directorio = "mi_proyecto", 
-#   titulo_proyecto = "Plan de Gestión - Análisis de Datos Genómicos",
-#   autor = "Dr. Juan Pérez"
+#   titulo_proyecto = "Plan de Gestión - Proyecto Software ",
+#   autor = "Investigador Principal"
 # )
 
 # 3. Crear un proyecto completo con estructura de carpetas
