@@ -136,29 +136,8 @@ Este proyecto se adhiere a un código de conducta que fomenta un ambiente abiert
 - **Ser constructivo**: Ofrece críticas constructivas y acepta feedback
 - **Ser inclusivo**: Respeta diferentes perspectivas y experiencias
 
-## 💬 ¿Preguntas?
-
-Si tienes preguntas sobre cómo contribuir:
-
-1. Revisa los [issues existentes](../../issues)
-2. Abre un nuevo issue con la etiqueta `pregunta`
-3. Contacta a [tu email o medio de contacto]
 
 ## 🙏 Agradecimientos
 
-Cada contribución, sin importar su tamaño, es valiosa. Gracias por ayudar a hacer la ciencia abierta más accesible en América Latina.
+Cada contribución, sin importar su tamaño, es valiosa. 
 
----
-
-## 📚 Recursos Útiles
-
-- [Documentación de Quarto](https://quarto.org/)
-- [Guía de Git y GitHub](https://docs.github.com/es)
-- [Markdown Guide](https://www.markdownguide.org/)
-- [Recomendación UNESCO sobre Ciencia Abierta](https://unesdoc.unesco.org/ark:/48223/pf0000379949_spa)
-
----
-
-**Última actualización**: [Fecha]
-
-**Mantenedores**: Patricia A. Loto ([@tu-usuario-github](https://github.com/tu-usuario))
