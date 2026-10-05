@@ -17,4 +17,7 @@ Este proyecto desarrollado con R automatiza la creación de una plantilla Quarto
 ## 📄 Licencia
 Este proyecto está licenciado bajo la Licencia GNU General Public.
 
-### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Noviembre 2025
+# Referencias 
+Para la definición de las secciones que debe contener como mínimo un PGS se tuvieron en cuenta las preguntas planteadas en Practical guide to Software Management Plans (Version 1.1) de Martinez-Ortiz et al. (2023), https://doi.org/10.5281/zenodo.7589725.
+
+### Versión: 0.1.0 | Estado: En desarrollo activo | Última actualización: Marzo 2026
