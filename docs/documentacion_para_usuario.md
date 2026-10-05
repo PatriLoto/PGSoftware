@@ -14,15 +14,15 @@ Nombre_proyecto/
 ## Cómo usar las funcionalidades de PGSoftware
 
 # OPCIÓN DE USO 1:
-1. Descarga la plantilla del plan de gestión 
-2. Completa el plan de gestión de software en `plan_gestion_software.qmd`
+1. Descarga la plantilla del plan de gestión de software
+2. Completa el plan en `plan_gestion_software.qmd`
 3. Renderiza el documento con: `quarto render plan_gestion_software.qmd`
 
 # OPCIÓN DE USO 2:
-1. Genera el proyecto completo, se creará la estructura estándar de un proyecto + la plantilla del plan de gestión del software
+1. Genera el proyecto completo, se creará la estructura estándar de un proyecto junto a la plantilla del plan de gestión del software
 2. Completa el plan de gestión de software en `plan_gestion_software.qmd`
 3. Renderiza el documento con: `quarto render plan_gestion_software.qmd`
-4. Desarrolla tu código en la carpeta `src/`
+4. Almacena el código en la carpeta `src/`
 5. Añade pruebas en la carpeta `tests/`
 6. Añade datos en la carpeta `data/`
 7. Añade los documentos como manual o guía de usuario en la carpeta `docs/`
