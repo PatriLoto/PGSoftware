@@ -1,11 +1,8 @@
-# mi proyecto
+#  PGSoftware
   
-## Descripción
-[Descripción breve del proyecto]
-
 ## Estructura del proyecto
 ```
-mi proyecto/
+Nombre_proyecto/
 ├── plan_gestion_software.qmd  # Plan de gestión principal
 ├── docs/                      # Documentación adicional  
 ├── src/                       # Código fuente
@@ -14,7 +11,7 @@ mi proyecto/
 └── output/                    # Resultados y outputs
 ```
 
-## Cómo usar este proyecto
+## Cómo usar las funcionalidades de PGSoftware
 
 # OPCIÓN DE USO 1:
 1. Descarga la plantilla del plan de gestión 
